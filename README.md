@@ -7,14 +7,13 @@ It focuses on clean UI, component-based architecture, and a responsive shopping 
 
 ## 🚀 Features
 
-- 🛍️ Product listing (Shoes collection)
-- 🔍 Product details view
-- 🛒 Add to Cart functionality
-- ➕ Increase / Decrease quantity
-- 💰 Cart total calculation
-- 📱 Fully responsive design
-- ⚡ Fast UI using React functional components
-- 🎯 Type safety using TypeScript
+-  Product listing (Shoes collection)
+-  Add to Cart functionality
+-  Increase / Decrease quantity
+-  Cart total calculation
+-  Fully responsive design
+-  Fast UI using React functional components
+-  Type safety using TypeScript
 
 ---
 
@@ -25,7 +24,5 @@ It focuses on clean UI, component-based architecture, and a responsive shopping 
 - **Styling:** External CSS
 - **Package Manager:** npm
 
----
 
-## 📁 Project Structure
 
