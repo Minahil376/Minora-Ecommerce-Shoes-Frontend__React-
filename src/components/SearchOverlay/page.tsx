@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
-import { PRODUCTS, type Product } from '../../data/products';
-import { useCart } from '../../context/CartContext';
+import { PRODUCTS, type Product } from '../ProductCard/page';
+import { useCart } from '../../App';
 
 interface SearchOverlayProps {
   isOpen: boolean;

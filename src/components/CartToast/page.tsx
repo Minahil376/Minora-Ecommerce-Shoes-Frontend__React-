@@ -1,4 +1,4 @@
-import { useCart } from '../../context/CartContext';
+import { useCart } from '../../App';
 
 export default function CartToast() {
   const { toast } = useCart();

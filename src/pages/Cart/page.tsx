@@ -1,6 +1,6 @@
 ﻿import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { useCart } from '../../context/CartContext';
+import { useCart } from '../../App';
 import Newsletter from '../../components/Newsletter/page';
 import Footer from '../../components/Footer/page';
 

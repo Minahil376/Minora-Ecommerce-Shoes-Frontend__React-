@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { useCart } from '../../context/CartContext';
+import { useCart } from '../../App';
 
 interface NavbarProps {
   onSearchOpen: () => void;

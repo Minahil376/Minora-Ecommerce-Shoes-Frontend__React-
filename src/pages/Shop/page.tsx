@@ -1,4 +1,4 @@
-﻿import { PRODUCTS } from '../../data/products';
+﻿import { PRODUCTS } from '../../components/ProductCard/page';
 import ProductCard from '../../components/ProductCard/page';
 import Newsletter from '../../components/Newsletter/page';
 import Footer from '../../components/Footer/page';
